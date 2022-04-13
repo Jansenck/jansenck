@@ -1,5 +1,5 @@
 ## Hi there, i am Jansen Caik! 👋
-<div align="center">
+<div align="">
   <a href="https://github.com/jansenck">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jansenck&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jansenck&layout=compact&langs_count=7&theme=dracula"/>
