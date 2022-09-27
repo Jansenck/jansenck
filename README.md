@@ -10,7 +10,8 @@
   <img align="center" alt="Jansen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jansen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jansen-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jansen-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg">
+  <img align="center" alt="Jansen-Webpack" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg">
+  <img align="center" alt="Jansen-Webpack" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg">
   <img align="center" alt="Jansen-NodeJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Jansen-MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg">
   <img align="center" alt="Jansen-PostgresSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
