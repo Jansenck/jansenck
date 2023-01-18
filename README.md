@@ -18,6 +18,9 @@
   <img align="center" alt="Jansen-PostgresSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Jansen-PostgresSQL" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg">
   <img align="center" alt="Jansen-PostgresSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"> 
+  
+  <img align="center" alt="Jansen-PostgresSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg">
+  <img align="center" alt="Jansen-PostgresSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
 </div>
   
   ##
