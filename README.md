@@ -1,33 +1,124 @@
 
-## Olá, eu sou o Jansen! Desenvolvedor Web Full Stack 😃 !
-<div align="center">
+## • Olá, eu sou o Jansen! Desenvolvedor Web Full Stack 😃 !
+
+<div align="left">
   <a href="https://github.com/Jansenck">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Jansenck&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jansenck&layout=compact&langs_count=7&theme=dracula"/>
+  <img 
+       height="180" 
+       src="https://github-readme-stats.vercel.app/api?username=Jansenck&show_icons=true&theme=radical" 
+  />
+  <img 
+       align="right" 
+       height="180" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=16&theme=radical" 
+  />
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jansen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jansen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jansen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jansen-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jansen-Webpack" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg">
-  <img align="center" alt="Jansen-Webpack" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg">
-  <img align="center" alt="Jansen-NodeJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Jansen-MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg">
-  <img align="center" alt="Jansen-PostgresSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Jansen-PostgresSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Jansen-PostgresSQL" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg">
-  <img align="center" alt="Jansen-PostgresSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"> 
   
-  <img align="center" alt="Jansen-PostgresSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg">
-  <img align="center" alt="Jansen-PostgresSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
+<div align="left" style="display: inline_block"><br>
+  
+  <img 
+       align="center" 
+       alt="HTML" 
+       height="30"
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img 
+       align="center" 
+       alt="CSS" 
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img 
+       align="center" 
+       alt="Js" 
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img 
+       align="center" 
+       alt="Typescript" 
+       height="30" 
+       width="40" 
+       src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img 
+       align="center" 
+       alt="React" 
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img 
+       align="center" 
+       alt="Webpack" 
+       height="30" 
+       width="40" 
+       src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg">
+    <img 
+       align="center" 
+       alt="NodeJs" 
+       height="30" 
+       width="40" 
+       src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img 
+       align="center" 
+       alt="Redis" 
+       height="30" 
+       width="40" 
+       src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg">
+  <img 
+       align="center" 
+       alt="AWS" 
+       height="30" 
+       width="40" 
+       src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img 
+       align="center" 
+       alt="MongoDB" 
+       height="30" 
+       width="40" 
+       src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg">
+  <img 
+       align="center" 
+       alt="PostgresSQL" 
+       height="30" 
+       width="40" 
+       src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img 
+       align="center" 
+       alt="Jest" 
+       height="25" 
+       width="30" 
+       src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"> 
+    <img 
+       align="center" 
+       alt="Docker" 
+       height="40" 
+       width="40" 
+       src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
+  <img 
+       align="center"
+       alt="Babel" 
+       height="40" 
+       width="40" 
+       src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg">
+  <img 
+       align="center" 
+       alt="Prisma" 
+       height="40" 
+       width="50" 
+       src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg">
+ 
 </div>
   
   ##
- 
+  ## • Contato 📬
 <div> 
-  <a href = "mailto:jansencaik@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jansen-caik-b03714100/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:jansencaik@gmail.com">
+    <img 
+         src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/jansen-caik-b03714100/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
  
   ![Snake animation](https://github.com/Jansenck/Jansenck/blob/output/github-contribution-grid-snake.svg)
  
