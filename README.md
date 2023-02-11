@@ -1,21 +1,21 @@
-
-## • Olá, eu sou o Jansen! Desenvolvedor Web Full Stack 😃 !
-
-<div align="left">
-  <a href="https://github.com/Jansenck">
+<div>
+  <h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Jansen Ferreira</h1>
+</div>
+<img align="right" height="390em" src="coding.gif"/>
+<div>
   <img 
-       height="180" 
-       src="https://github-readme-stats.vercel.app/api?username=Jansenck&show_icons=true&theme=radical" 
+     height="180" 
+     src="https://github-readme-stats.vercel.app/api?username=Jansenck&show_icons=true&theme=radical" 
   />
-  <img 
-       align="right" 
-       height="180" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=16&theme=radical" 
+  <img  
+       height="203" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jansenck&layout=compact&langs_count=16&theme=radical" 
   />
 </div>
-  
-<div align="left" style="display: inline_block"><br>
-  
+
+##
+## Competências 💻
+<div align="left" style="display: inline_block"><br> 
   <img 
        align="center" 
        alt="HTML" 
