@@ -14,7 +14,7 @@
 </div>
 
 ##
-## Competências 💻
+## • Competências 💻
 <div align="left" style="display: inline_block"><br> 
   <img 
        align="center" 
