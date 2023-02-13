@@ -1,21 +1,15 @@
 <div>
   <h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Jansen Ferreira</h1>
-</div>
-<div align="center" style="display: inline_block">
-  <div align="right"><br>
-    <img height="290em" src="coding.gif"/><br>
-    <img height="165em" src="matrix.gif"/>
-  </div>
-  <div align="left" style="display: inline_block">
-    <img 
-       height="180" 
-       src="https://github-readme-stats.vercel.app/api?username=Jansenck&show_icons=true&theme=radical" 
-    /><br>
-    <img  
-         height="203" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jansenck&layout=compact&langs_count=16&theme=radical" 
-    />
-  </div>
+<img align="right" height="290em" src="coding.gif"/></br>
+<div>
+  <img 
+     height="180" 
+     src="https://github-readme-stats.vercel.app/api?username=Jansenck&show_icons=true&theme=radical" 
+  />
+  <img  
+       height="203" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jansenck&layout=compact&langs_count=16&theme=radical" 
+  />
 </div>
 ##
 ## • Competências 💻
