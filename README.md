@@ -1,6 +1,6 @@
 <div>
   <h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Jansen Ferreira</h1>
-<img align="right" height="290em" src="coding.gif"/>
+  <img align="right" height="290em" src="coding.gif"/>
 <div>
   <img 
      height="180" 
@@ -11,6 +11,7 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jansenck&layout=compact&langs_count=16&theme=radical" 
   />
 </div>
+  
 ##
 ## • Competências 💻
 <div align="left" style="display: inline_block"><br> 
