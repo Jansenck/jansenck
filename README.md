@@ -1,7 +1,7 @@
 <div>
   <h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Jansen Ferreira</h1>
 </div>
-<img align="right" height="385em" src="coding.gif"/>
+<img align="right" height="320em" src="coding.gif"/>
 <div>
   <img 
      height="180" 
