@@ -1,5 +1,5 @@
 <div>
-  <h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Jansen Ferreira</h1>
+  <h1 align="left">Hi <img src="https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" height="60px">, I'm Jansen Ferreira</h1>
   <img align="right" height="290em" src="coding.gif"/>
 <div>
   <img 
@@ -13,7 +13,7 @@
 </div>
   
 ##
-## • Competências 💻
+## • Skills 💻
 <div align="left" style="display: inline_block"><br> 
   <img 
        align="center" 
@@ -109,7 +109,7 @@
 </div>
   
   ##
-  ## • Contato 📬
+  ## • Contact 📬
 <div> 
   <a href="mailto:jansencaik@gmail.com">
     <img 
