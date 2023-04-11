@@ -14,7 +14,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          colorscheme: neon
+          colorscheme: pastel
           github_user_name: Jansenck
           svg_out_path: dist/github-contribution-grid-snake.svg
 
