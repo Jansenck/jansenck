@@ -14,9 +14,9 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          colorscheme: pastel
           github_user_name: Jansenck
           svg_out_path: dist/github-contribution-grid-snake.svg
+          colorscheme: pastel
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
