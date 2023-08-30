@@ -3,11 +3,11 @@
   <img align="right" height="290em" src="coding.gif"/>
 <div>
   <img 
-     height="180" 
+     width="420" 
      src="https://github-readme-stats.vercel.app/api?username=Jansenck&show_icons=true&theme=radical" 
   />
   <img  
-       height="310"
+       width="420"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jansenck&layout=compact&langs_count=16&theme=radical" 
   />
 </div>
