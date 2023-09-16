@@ -15,7 +15,7 @@
 ##
 ## • Skills 💻
 <div align="left" style="display: inline_block"><br> 
-  <h4>Front End - Web</h4>
+  <h4>Front End</h4>
   <div align="left" style="display: inline_block"><br>
     <img 
        align="center" 
@@ -54,8 +54,7 @@
        width="55" 
        src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg">
   </div>
-  
-  <h4>Back End - Web</h4>
+  <h4>Back End</h4>
   <div align="left" style="display: inline_block"><br>
     <img 
        align="center" 
@@ -100,8 +99,7 @@
          width="90" 
          src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg">
   </div>
-
-  <h4>DevOps - Web</h4>
+  <h4>DevOps</h4>
   <div align="left" style="display: inline_block"><br>
     <img 
          align="center" 
@@ -116,7 +114,6 @@
          width="40" 
          src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
   </div>
-
   <h4>General</h4>
   <div align="left" style="display: inline_block"><br>
     <img 
@@ -127,16 +124,16 @@
          src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
     <img 
          align="center" 
-         alt="Spring" 
-         height="35" 
-         width="35" 
-         src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-    <img 
-         align="center" 
          alt="Kotlin" 
          height="30" 
          width="30" 
          src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
+    <img 
+         align="center" 
+         alt="Spring" 
+         height="35" 
+         width="35" 
+         src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   </div>
 </div>
   
@@ -150,8 +147,5 @@
   <a href="https://www.linkedin.com/in/jansen-caik-b03714100/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
- 
-  ![Snake animation](https://github.com/Jansenck/Jansenck/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
