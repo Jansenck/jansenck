@@ -94,6 +94,12 @@
          src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"> 
     <img 
          align="center" 
+         alt="Jest" 
+         height="38" 
+         width="40" 
+         src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg"> 
+    <img 
+         align="center" 
          alt="Prisma" 
          height="90" 
          width="90" 
