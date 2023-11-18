@@ -2,10 +2,6 @@
   <h1 align="left">Hi <img src="https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" height="60px">, I'm Jansen Ferreira</h1>
   <img align="right" height="290em" src="coding.gif"/>
 <div>
-  <img 
-     width="420" 
-     src="https://github-readme-stats.vercel.app/api?username=Jansenck&show_icons=true&theme=radical" 
-  />
   <img  
        width="420"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jansenck&layout=compact&langs_count=16&theme=radical" 
