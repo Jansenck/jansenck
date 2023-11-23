@@ -3,7 +3,7 @@
   <img align="right" height="290em" src="coding.gif"/>
 <div>
   <img  
-       width="420"
+       width="460"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jansenck&layout=compact&langs_count=16&theme=radical" 
   />
 </div>
