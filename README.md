@@ -98,12 +98,6 @@
   </div>
   <h4>DevOps</h4>
   <div align="left" style="display: inline_block"><br>
-    <img 
-         align="center" 
-         alt="AWS" 
-         height="40"
-         width="40" 
-         src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
       <img 
          align="center" 
          alt="Docker" 
